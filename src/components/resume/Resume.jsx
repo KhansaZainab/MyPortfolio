@@ -17,7 +17,7 @@ function Resume() {
   return (
     <section
       id="features"
-      className="w-full h-[1300px] pt-20 pb-20  border-b-[1px] border-b-black"
+      className="w-full h-auto pt-20 pb-20  border-b-[1px] border-b-black"
     >
       <div className="flex justify-center items-center text-center">
         <Title title="7+ Years of experience" des="My Resume" />

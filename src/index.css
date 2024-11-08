@@ -6,9 +6,10 @@
 
 @layer components{
     .bannerClass{
-        @apply w-12 h-12 bg-black bg-opacity-25 text-gray-200 rounded-md justify-center text-xl items-center
+        @apply w-12 h-12 bg-black bg-opacity-25 text-gray-200 rounded-md flex justify-center text-xl items-center text-center
     }
     .resumeLi{
         @apply w-full h-20 bg-black flex justify-center items-center bg-opacity-25 text-gray-300 text-xl hover:bg-opacity-40 duration-300 cursor-pointer rounded hover:border-[1px] hover:border-gray-700 
     }
 }
+
